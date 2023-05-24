@@ -59,7 +59,7 @@ Cada día me enfoco en aprender más sobre: codigo limpio, calidad en la constru
 
 ![GitHub Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=Omar2108&show_icons=true&include_all_commits=true&theme=dark&count_private=true 'Datos de Omar Rodriguez')
 
-<img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" alt="eat sleep code repeat" width="200" style="float: right; width: 200px" align="right" />
+<img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" alt="eat sleep code repeat" width="200" style="float: right; width: 200px" align="left" />
 
 <!--
 **Omar2108/Omar2108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
