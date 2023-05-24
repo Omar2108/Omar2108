@@ -5,7 +5,7 @@
 
 ## Hola 👋🏻, bienvenido a mi perfil profesional
 
-Soy programador backend con conocimientos y experiencia en la industria IT. Me especializo en tecnologías con lenguajes como Java, JavaScript, Nodejs, PHP, TypeScript, SQL, Spring boot, Nestjs, Express, React, Angular, HTML, CSS.
+Soy programador backend con conocimientos y experiencia en la industria IT. Cuento con conocimientos en tecnologías como Java, JavaScript, Nodejs, PHP, TypeScript, SQL, Spring boot, Nestjs, Express, React, Angular, HTML, CSS.
 
 > Soy una persona emprendedora que se apasiona por aprender más sobre programación, tecnología y ciencias. 
 
