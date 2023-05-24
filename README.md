@@ -1,4 +1,4 @@
-# 🤖 [Omar2108](https://www.linkedin.com/in/omar-alfredo-rodriguez-chamorro/)
+# 🤖 [Omar Rodriguez Chamorro](https://www.linkedin.com/in/omar-alfredo-rodriguez-chamorro/)
 
 ![Omar Rodriguez - Back End Developer](https://media.giphy.com/media/436hhtZJQAT86nomhG/giphy.gif)
 
