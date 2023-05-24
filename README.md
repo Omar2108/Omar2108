@@ -55,7 +55,7 @@ Cada día me enfoco en aprender más sobre: codigo limpio, calidad en la constru
 
 ### GitHub Stats
 
-<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" alt="GitHub" style="float: right;" width="300" align="right" />
+<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" alt="GitHub" style="float: right;" align="right" />
 
 ![GitHub Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=Omar2108&show_icons=true&include_all_commits=true&theme=dark&count_private=true 'Datos de Omar Rodriguez')
 
