@@ -1,5 +1,7 @@
 # 🤖 [Omar2108](https://www.linkedin.com/in/omar-alfredo-rodriguez-chamorro/)
 
+![Omar Rodriguez - Back End Developer](https://raw.githubusercontent.com/Omar2108/Omar2108/master/assets/github-header.jpg)
+
 ## Hola 👋🏻, bienvenido a mi perfil profesional
 
 Soy programador backend con conocimientos y experiencia en la industria IT. Me especializo en tecnologías con lenguajes como Java, JavaScript, Nodejs, PHP, TypeScript, SQL, Spring boot, Nestjs, Express, React, Angular, HTML, CSS.
