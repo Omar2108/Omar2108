@@ -1,6 +1,4 @@
-# 🤖 [Omar2108]([https://twitter.com/lgzarturo](https://www.linkedin.com/in/omar-alfredo-rodriguez-chamorro/))
-
-![Omar Rodriguez - Programador Back end](https://raw.githubusercontent.com/lgzarturo/lgzarturo/master/assets/github-header.jpg)
+# 🤖 [Omar2108]([https://twitter.com/lgzarturo](https://www.linkedin.com/in/omar-alfredo-rodriguez-chamorro/)
 
 ## Hola 👋🏻, bienvenido a mi perfil profesional
 
