@@ -16,7 +16,7 @@ Tengo sólidos conocimientos en desarrollo de Apis, Manejadores de base de datos
 - 👨🏻‍💻 Actualmente me encuentro buscando trabajo.
 - 💼 Desarrolle varios proyecto, como api para facturacion electronica, utilizano nodejs, nestjs, java.
 - 👨🏻‍🔬 Actualmente estoy aprendiendo sobre micro servicios en java con spring boot, nodejs y desarrollo fron end con React y Angular.
-- 📓 Público mis notas y prácticas sobre desarrollo en el repositorio (https://github.com/Omar2108?tab=repositories)
+- 📓 Público mis notas y prácticas sobre desarrollo en el repositorio [Omar2108](https://github.com/Omar2108?tab=repositories)
 
 ---
 
