@@ -1,4 +1,4 @@
-# 🤖 [Omar2108]([https://twitter.com/lgzarturo](https://www.linkedin.com/in/omar-alfredo-rodriguez-chamorro/)
+# 🤖 ([Omar2108](https://www.linkedin.com/in/omar-alfredo-rodriguez-chamorro/)
 
 ## Hola 👋🏻, bienvenido a mi perfil profesional
 
