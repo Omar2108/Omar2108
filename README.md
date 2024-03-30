@@ -26,24 +26,24 @@ Tengo sólidos conocimientos en desarrollo de Apis, Manejadores de base de datos
 
 ---
 
-### 🛠 Frameworks y herramientas
+#### 🛠 Frameworks y herramientas
 
 Listado de tecnologías que uso para desarrollar diversos tipos proyectos.
 
 Git, Spring Boot, React,Angular, Html 5, Css 3, TypeScript, MongoDB, Express, Nestjs, MySQL, PostgreSQL, SQL Server, Postman, SoapUI, Visual Studio Code, netbeans, Eclipse, Intellij
 
-### 👨🏻‍🔬 DevOps
+##### 👨🏻‍🔬 DevOps
 
 - Amazon AWS, Azure, Docker.
 
 
-### 👨🏻‍🎨 Creativo, especialista en programación
+###### 👨🏻‍🎨 Creativo, especialista en programación
 
 Tengo experiencia en el proceso modelamiento de base de datos relaciones, fabricación de software, apis y el proceso creativo del desarrollo de productos digitales.
 
 Cada día me enfoco en aprender más sobre: codigo limpio, calidad en la construccion de aplicaciones, nuevas tecnologías, actualizaciones de versiones de los lenguajes que utilizo, testing, buenas practicas, base de datos.
 
-### 👨🏻‍🚀 Habilidades
+####### 👨🏻‍🚀 Habilidades
 
 - programación y desarrollo de aplicaciones del lado del servidor.
 - Administración de base de datos.
@@ -52,7 +52,8 @@ Cada día me enfoco en aprender más sobre: codigo limpio, calidad en la constru
 
 ---
 
-### GitHub Stats
+
+######## GitHub Stats
 
 <h3>My GitHub Stats</h3>
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
@@ -66,6 +67,16 @@ Cada día me enfoco en aprender más sobre: codigo limpio, calidad en la constru
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Omar2108&theme=dark" alt="Omar2108" /></p>
 <br><br><br><br><br><br><br><br><br><br>
+
+<hr width="60%" >
+<h3 align="left">Conectate conmigo:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/anirudh-rai-072732220" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anirudh-rai-072732220" height="30" width="40" /></a>
+<a href="https://kaggle.com/anirudhrai693" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="anirudhrai693" height="30" width="40" /></a>
+<a href="https://instagram.com/anii_akhil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anii_akhil" height="30" width="40" /></a>
+</p>
+<br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anii693&label=Profile%20views&color=0e75b6&style=flat" alt="anii693" /> </p>
 
 <!--
 **Omar2108/Omar2108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
