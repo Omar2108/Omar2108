@@ -20,20 +20,6 @@ Tengo sólidos conocimientos en desarrollo de Apis, Manejadores de base de datos
 
 ---
 
-<h3>My GitHub Stats</h3>
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
-<br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Omar2108&show_icons=true&theme=dark&locale=en&layout=compact" alt="Omar2108" /></p>
-
-<br><br><br><br><br><br><br>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=Omar2108&show_icons=true&theme=dark&locale=en" alt="Omar2108" /></p>
-<br><br><br><br><br><br><br><br><br><br>
-
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Omar2108&theme=dark" alt="Omar2108" /></p>
-<br><br><br><br><br><br><br><br><br><br>
-
-
 ### Mis redes sociales
 
 [<img src='https://github.com/lgzarturo/lgzarturo/raw/master/assets/linkedin.png' alt='LinkedIn' width='24' style='width:24px; margin-right: 10px;'/>](https://www.linkedin.com/in/omar-alfredo-rodriguez-chamorro/)
@@ -68,9 +54,18 @@ Cada día me enfoco en aprender más sobre: codigo limpio, calidad en la constru
 
 ### GitHub Stats
 
-<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" alt="GitHub" style="float: right;" width="300"  align="right" />
+<h3>My GitHub Stats</h3>
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
+<br>
 
-![GitHub Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=Omar2108&show_icons=true&include_all_commits=true&theme=dark&count_private=true 'Datos de Omar Rodriguez')
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Omar2108&show_icons=true&theme=dark&locale=en&layout=compact" alt="Omar2108" /></p>
+
+<br><br><br><br><br><br><br>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=Omar2108&show_icons=true&theme=dark&locale=en" alt="Omar2108" /></p>
+<br><br><br><br><br><br><br><br><br><br>
+
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Omar2108&theme=dark" alt="Omar2108" /></p>
+<br><br><br><br><br><br><br><br><br><br>
 
 <img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" alt="eat sleep code repeat" width="200" style="float: right; width: 200px" align="left" />
 
