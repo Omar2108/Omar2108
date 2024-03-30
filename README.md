@@ -67,8 +67,6 @@ Cada día me enfoco en aprender más sobre: codigo limpio, calidad en la constru
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Omar2108&theme=dark" alt="Omar2108" /></p>
 <br><br><br><br><br><br><br><br><br><br>
 
-<img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" alt="eat sleep code repeat" width="200" style="float: right; width: 200px" align="left" />
-
 <!--
 **Omar2108/Omar2108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
