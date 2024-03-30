@@ -1,6 +1,8 @@
-# 🤖 [Omar Rodriguez Chamorro](https://www.linkedin.com/in/omar-alfredo-rodriguez-chamorro/)
+<h1 align="center">Hi 👋, I'm Anirudh Rai</h1>
 
-![Omar Rodriguez - Back End Developer](https://media.giphy.com/media/436hhtZJQAT86nomhG/giphy.gif)
+
+🌱 actualmente estoy aprendiendo **WEB Development Full-Stack**
+<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
 
 ## Hola 👋🏻, bienvenido a mi perfil profesional
