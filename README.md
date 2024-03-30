@@ -20,12 +20,6 @@ Tengo sólidos conocimientos en desarrollo de Apis, Manejadores de base de datos
 
 ---
 
-### Mis redes sociales
-
-[<img src='https://github.com/lgzarturo/lgzarturo/raw/master/assets/linkedin.png' alt='LinkedIn' width='24' style='width:24px; margin-right: 10px;'/>](https://www.linkedin.com/in/omar-alfredo-rodriguez-chamorro/)
-
----
-
 #### 🛠 Frameworks y herramientas
 
 Listado de tecnologías que uso para desarrollar diversos tipos proyectos.
@@ -71,12 +65,10 @@ Cada día me enfoco en aprender más sobre: codigo limpio, calidad en la constru
 <hr width="60%" >
 <h3 align="left">Conectate conmigo:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/anirudh-rai-072732220" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anirudh-rai-072732220" height="30" width="40" /></a>
-<a href="https://kaggle.com/anirudhrai693" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="anirudhrai693" height="30" width="40" /></a>
-<a href="https://instagram.com/anii_akhil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anii_akhil" height="30" width="40" /></a>
+<a href="[https://www.linkedin.com/in/omar-alfredo-rodriguez-chamorro/]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anirudh-rai-072732220" height="30" width="40" /></a>
 </p>
 <br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anii693&label=Profile%20views&color=0e75b6&style=flat" alt="anii693" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Omar2108&label=Profile%20views&color=0e75b6&style=flat" alt="anii693" /> </p>
 
 <!--
 **Omar2108/Omar2108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
