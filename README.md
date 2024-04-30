@@ -12,7 +12,7 @@
 <br>
 ## Hola 👋🏻, bienvenido a mi perfil profesional
 
-Soy desarrollador de apliaciones con conocimientos y experiencia en la industria IT. Cuento con conocimientos en tecnologías como Java, JavaScript, Nodejs, PHP, TypeScript, SQL, Spring boot, Nestjs, Express, React, Angular,Nextjs, HTML, CSS.
+Soy desarrollador de aplicaciones con conocimientos y experiencia en la industria IT. Cuento con conocimientos en tecnologías como Java, JavaScript, Nodejs, PHP, TypeScript, SQL, Spring boot, Nestjs, Express, React, Angular,Nextjs, HTML, CSS.
 
 > Soy una persona emprendedora que se apasiona por aprender más sobre programación, tecnología y ciencias. 
 
